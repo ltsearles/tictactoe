@@ -1,0 +1,16 @@
+	Nessacary Requirements
+
+Visual of board and user moves
+
+User input for spot selection of move
+
+Check if winner
+
+Display of which players turn it is
+
+Display winner (player 1 or player 2
+
+Check if no moves left
+
+End game and reset
+

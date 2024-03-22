@@ -1,0 +1,12 @@
+	Psuedo Code Tic Tac Toe
+1. Create 3X3 grid/ board
+2. Assign player 1 X and player 2 O
+3.Display empty board
+4.Prompt current player to make move by entering row and column number or box number
+	a. check if move is valid(move is in grid and empty)
+5. Place players symbol in box selected
+6. Show updated grid
+7. Check if winner or game is over
+8. If over display Result and end game (exit loop)
+9.If not over change move to other player 
+9.Repeat steps 4-8
